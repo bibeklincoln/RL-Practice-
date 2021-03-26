@@ -1,3 +1,3 @@
-# tictac
+# 
 
-Trying to create a custom Gym environment for tictactoe 
+practicing some RL codes to undertand better 
