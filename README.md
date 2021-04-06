@@ -1,3 +1,3 @@
 # 
-In this repository I will upload the codes which I am looking and practicing to undertand better. 
-I'll credit in the code files most commonly and update this readme later. 
+This repository publishes the projects I practice towards learning the RL. 
+I'll credit the sources most commonly in the code files, and update this readme later. 
